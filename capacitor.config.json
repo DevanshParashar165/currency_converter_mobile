@@ -1,5 +1,5 @@
 {
-  "appId": "com.example.app",
+  "appId": "com.devansh.currencyconverter",
   "appName": "Currency Converter",
   "webDir": "dist"
 }
